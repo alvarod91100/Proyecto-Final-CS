@@ -10,6 +10,6 @@ Los rangos de niveles de metano son algo de gran interés para el desarrollo de 
 mediante el uso de sensores e IoT. Después de la realización de más indagación en el tema, se definen varios aspectos en cuanto a niveles de metano en el suelo "aceptables". 
 Normlamente, los niveles de metano en el suelo varía entre 0.2 y 1.6 ppm (partes por millón), siempre y cuando no haya una fuente externa del gas actuando. 
 Por ello, se puede definir al rango de 0.2 a 1.6 como aquél de niveles aceptables del gas en el suelo. Dicho esto, nosotros proponemos el utilizar sensores bajo tierra que puedan detectar el nivel de metano
-que yace, se planea poner un foco en la superficie el cual cambiaría de color dependiendo de la concentración que percibe en tiempo real. Azul, si es inferior al nivel aceptable, verde si se encuentra dentro
+que yace, se planea poner tres focos en la superficie, uno azul, otro rojo y otro verde, donde solamente uno se prenderá dependiendo de la concentración que percibe en tiempo real. Azul, si es inferior al nivel aceptable, verde si se encuentra dentro
 del rango, o rojo si es mayor. Al monitorear continuamente la tierra en zonas ganaderas, zonas donde se produce mucho metano, se podrá disminuir el desprendimiento de este gas al aire y mejorar la calidad de
 este mismo y como efecto consecuente, el mejorar el medio ambiente.  
