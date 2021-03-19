@@ -1,3 +1,0 @@
-Introducción
-
-El Internet de las Cosas (IoT) es una tendencia que ha agarrado fuerza sobre todo durante los años más recientes. Este se basa en la intercomunicación de diferentes objetos mediante el uso de la red de internet. Esta tendencia puede utilizarse de manera casera, ej. conectando diferentes dispositivos en una cocina, o puede utilizarse para la solución de problemas de mayor impacto. En este escrito, se presenta una propuesta de solución al problema de la calidad del aire y suelo generado por altas concentraciones del gas metano. Para esta solución, se propone la implementación del IoT mediante la utilización de sensores que detecten la presencia de exceso de metano y produzcan una señal de alerta. 
