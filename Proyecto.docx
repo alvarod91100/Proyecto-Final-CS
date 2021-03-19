@@ -1,1 +1,32 @@
-Alvaro esta bien guapo, en sus sueños
+Introducción
+
+El Internet de las Cosas (IoT) es una tendencia que ha agarrado fuerza sobre todo durante los años más recientes. Este se basa en la intercomunicación de diferentes objetos mediante el uso de la red de internet. Esta tendencia puede utilizarse de manera casera, ej. conectando diferentes dispositivos en una cocina, o puede utilizarse para la solución de problemas de mayor impacto. En este escrito, se presenta una propuesta de solución al problema de la calidad del aire y suelo generado por altas concentraciones del gas metano. Para esta solución, se propone la implementación del IoT mediante la utilización de sensores que detecten la presencia de exceso de metano y produzcan una señal de alerta. 
+El metano que se libera a la atmósfera antes de que se queme es perjudicial para el medio ambiente. Como puede atrapar el calor en la atmósfera, el metano contribuye al cambio climático. Aunque la duración del metano en la atmósfera es relativamente corta comparada con la de otros gases de efecto invernadero, es más eficaz a la hora de atrapar el calor que esos otros gases. 
+Y a pesar de que existen procesos naturales en el suelo y reacciones químicas en la atmósfera que ayudan a eliminar el metano de la atmósfera, es importante que todas las actividades que realiza el ser humano y que pueden contribuir a emitir metano en la atmósfera se realicen de forma que estas emisiones se reduzcan. 
+
+
+Debido a la emisión de los gases de efecto invernadero, la salud de los humanos está siendo afectada y el cambio climático está ocurriendo. Durante diciembre del 2015,  el “Índice Metropolitano de la Calidad del Aire” (IMECAS), indicó que hubieron varios días que la contaminación en el aire fue mayor que 100. Al igual que diciembre del 2015, ha habido numerosos meses con días con mala calidad del aire.
+
+
+La contaminación en el aire y en el suelo está causando un cambio climático drástico. Actualmente, el ser humano se encuentra en una cuerda muy fina debido a los daños que ha causado. Basado en los datos analizados, no sólo de México y Monterrey, la humanidad también está en el punto que el cambio climático y la contaminación pueden volverse irreversibles.
+
+
+El metano, al que ya se introdujo anteriormente, en su forma antes de combustión es un elemento perjudicial para el ambiente, siendo un factor importante al cambio climático por su capacidad de almacenar 
+calor en la atmósfera en la que yace. Siendo un gas de efecto invernadero, es capaz de absorber radiación infrarroja del suelo, la cual, por consiguiente, genera un aumento en su temperatura. 
+El gas metano en la atmosfera ha estado aumentando conforme el paso del tiempo, aumentando desde 722 ppb hasta los 1807 ppb en un lapso desde el año de 1750 al año 2011. 
+De hecho, se estima que si se controlará la liberación de este gas, el efecto del cambio climático se reduciría en un 25%. La habilidad de los suelos, especialmente aquellos que son fértiles y utilizados 
+en la industria de la agricultura, para producir y almacenar gas metano es algo que está presente en todo el mundo de las cosechas. Según un monitoreo hecho en Utah, E.E.U.U., entre los años 1995 y 2003, 
+se realizó  un estudio sobre la concentración de gas metano en los suelos donde se encontraron los siguientes hallazgos.
+La cantidad promedio de meano durante el periodo constaba de 2740 partes por millon de volúmen (ppmv), lo cual, según las medidas de recomendadas antes de ser dañino (5,000 ppmv), es aceptable.  
+Los rangos de niveles de metano son algo de gran interés para el desarrollo de este proyecto, dado que son valores posiblemente guías para el proceso de detección de niveles riesgosos del gas 
+mediante el uso de sensores e IoT. Después de la realización de más indagación en el tema, se definen varios aspectos en cuanto a niveles de metano en el suelo "aceptables". 
+Normlamente, los niveles de metano en el suelo varía entre 0.2 y 1.6 ppm (partes por millón), siempre y cuando no haya una fuente externa del gas actuando. 
+Por ello, se puede definir al rango de 0.2 a 1.6 como aquél de niveles aceptables del gas en el suelo. Dicho esto, nosotros proponemos el utilizar sensores bajo tierra que puedan detectar el nivel de metano
+que yace, se planea poner tres focos en la superficie, uno azul, otro rojo y otro verde, donde solamente uno se prenderá dependiendo de la concentración que percibe en tiempo real. Azul, si es inferior al nivel aceptable, verde si se encuentra dentro
+del rango, o rojo si es mayor. Al monitorear continuamente la tierra en zonas ganaderas, zonas donde se produce mucho metano, se podrá disminuir el desprendimiento de este gas al aire y mejorar la calidad de
+este mismo y como efecto consecuente, el mejorar el medio ambiente.  
+Conclusión:
+La realización de este proyecto nos dejo muy en claro como las nuevas tecnologías que están en constante desarrolo son una parte vital para el desarrollo de soluciones para los problemas medio ambientales, estos problemas son bastante alarmantes por las consecuencias
+que éstas pueden llegar a ser para el planeta entero si no se llega a hacer algo a tiempo, nuestra propuesta es un pequeño cambio para un proyecto más grande sobre aplicar la tecnología para la restauración del medio ambiente.
+Tambien otra cosa que agregar es el aprendizaje que obtuvimos para poder trabajar en equipo correctamente con un uso de Git y de Github, por lo que aprendimos que un buen conocimiento y manejo de estos por parte de todo el equipo, ayuda mucho a la rápidez y calidad
+con la que se hacen los trabajos en equipo.
